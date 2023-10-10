@@ -1,9 +1,11 @@
+
 body {
     background-color: white;
     color:black;
-    margin-left: 100px;
-
+    margin: 0px;
+    margin-left: 45px;
+    margin-right: 45px;
 }
-.destacado{
-    margin-left: 25px;
+.destacado {
+    margin-left: 65px;
 }
