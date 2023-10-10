@@ -1,8 +1,9 @@
 body {
     background-color: white;
-    color:black
-    font-family: Verdana;
-    width: 55px;
-    line-break: auto;
-    text-align: auto
+    color:black;
+    margin-left: 100px;
+
+}
+.destacado{
+    margin-left: 25px;
 }
